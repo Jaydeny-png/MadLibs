@@ -1,0 +1,48 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.bg-primary{
+    background-color: #f7cd15 !important;
+
+}
+
+
+header, footer {
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#madLibOutput {
+    padding: 20px;
+    text-align: center;
+}
+
+body {
+    /* Set the background image */
+    background-image: url('maxresdefault.jpg');
+  
+    /* Set the background size, repeat, and position if needed */
+    background-size: cover; /* or contain, or specific dimensions */
+    background-repeat: no-repeat; /* or repeat-x, repeat-y, repeat */
+    background-position: center; /* or top, bottom, left, right, or any combination */
+    background-attachment:fixed ;
+    /* Additional styling, if desired */
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+  }
+/* Add more styles based on your creativity and design preferences */
